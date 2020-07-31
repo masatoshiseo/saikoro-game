@@ -1,4 +1,8 @@
-<form action="cafe.013.php" method="post">
+<!DOCTYPE html>
+<html><head>
+  <meta charset="utf-8">
+  <title>cafe.013.php</title>
+</head><form action="cafe.013.php" method="post">
 
 
 <?php $okane= $_POST['okane']; ?>
